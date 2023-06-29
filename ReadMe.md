@@ -18,6 +18,7 @@ Pour pouvoir suivre cette activitée, vous devez avoir installé sur votre ordin
 - Toute forme de plagiat est interdite; vous devez écrire votre code vous-même.
 - Vous pouvez utiliser internet pour chercher de l'aide, mais vous ne pouvez pas copier/coller du code.
 - Vous devez seulement utiliser `write` pour les exercices.
+- Jouez le jeu, les conditions en piscine seront pire 😉
 
 # Exercices 📝
 
