@@ -38,7 +38,7 @@ Ecrivez une fonction qui, en commençant par `a`, affiche l'alphabet dans l'ordr
 Prototype de la fonction:
 
 ```c
-void my_print_alpha(void);
+int my_print_alpha(void);
 ```
 
 ## 2 - my_ispos ➕
