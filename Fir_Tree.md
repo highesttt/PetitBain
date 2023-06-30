@@ -47,7 +47,7 @@ N'oubliez pas que vous devez avoir une politique de test cohérente pour vous as
 
 ## Exemples
 
-```sh
+```text
 ~/fire_tree> ./a.out 1
    *
   ***
@@ -56,7 +56,7 @@ N'oubliez pas que vous devez avoir une politique de test cohérente pour vous as
    |
 ```
 
-```sh
+```text
 ~/fire_tree> ./a.out 5
                    *
                   ***
